@@ -1,0 +1,14 @@
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Common.dll
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.License.dll
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Pdf.dll
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.XLS.dll
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Microsoft.mshtml.dll
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Common.xml
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Pdf.xml
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.XLS.xml
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
