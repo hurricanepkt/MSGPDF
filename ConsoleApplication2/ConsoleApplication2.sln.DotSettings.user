@@ -2,4 +2,5 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication2\packages\MSGReader.1.9.6\lib\MsgReader.dll" /&gt;&#xD;
   &lt;Assembly Path="c:\Users\Mark\Documents\Visual Studio 2015\Projects\ConsoleApplication2\packages\FreeSpire.Doc.5.5\lib\net40\Spire.Doc.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication2\packages\FreeSpire.Doc.5.5\lib\net40\Spire.Pdf.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

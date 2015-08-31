@@ -12,3 +12,17 @@ c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleA
 c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
 c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 c:\users\mark\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Common.dll
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.License.dll
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Pdf.dll
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.XLS.dll
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Common.xml
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.Pdf.xml
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\bin\Debug\Spire.XLS.xml
+C:\Users\Mark\Desktop\Repos\MSGPDF\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

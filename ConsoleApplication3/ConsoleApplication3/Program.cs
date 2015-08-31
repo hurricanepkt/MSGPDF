@@ -10,9 +10,13 @@ namespace ConsoleApplication3
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
-            ConvertXLFiles(@"C:\Users\Mark\Desktop\trash\MEL\out\Two\", 3);
+            var dir = args[0];
+            Console.WriteLine("DIR = " + dir);
+            var start = (int.Parse(args[1]));
+            Console.WriteLine("START = " + start);
+            return ConvertXLFiles(dir, start);
         }
 
         public static int ConvertXLFiles(string outDir, int start)
@@ -21,16 +25,19 @@ namespace ConsoleApplication3
             Workbook workbook = new Workbook();
             foreach (FileInfo file in downloadedMessageInfo.GetFiles("*.xlsx"))
             {
+                Console.WriteLine("Loading : " + file.Name); 
                 workbook.LoadFromFile(file.FullName, ExcelVersion.Version2013);
                 workbook.SaveToFile(string.Format("{0}{1:000}.pdf", outDir, start), FileFormat.PDF);
-                //file.Delete();
+                file.Delete();
                 start++;
             }
             foreach (FileInfo file in downloadedMessageInfo.GetFiles("*.xls"))
             {
+                Console.WriteLine("Loading ->" + file.Name);
                 workbook.LoadFromFile(file.FullName, ExcelVersion.Version97to2003);
                 workbook.SaveToFile(string.Format("{0}{1:000}.pdf", outDir, start), FileFormat.PDF);
-                //file.Delete();
+                Console.WriteLine("Saving ->" + string.Format("{0}{1:000}.pdf", outDir, start));
+                file.Delete();
                 start++;
             }
             return start;
